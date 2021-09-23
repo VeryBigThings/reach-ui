@@ -19,6 +19,7 @@ pids
 
 # bundled files
 /packages/*/**/dist
+!/packages/combobox/**/dist
 /packages/*/errors
 
 # editor specific
