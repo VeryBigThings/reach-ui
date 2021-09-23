@@ -1,7 +1,7 @@
 {
   "name": "reach-ui-combobox-fix",
   "description": "The accessible foundation of your React apps and design systems",
-  "private": true,
+  "private": false,
   "author": "React Training <hello@reacttraining.com>",
   "license": "MIT",
   "repository": {
