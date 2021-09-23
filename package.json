@@ -2,6 +2,7 @@
   "name": "reach-ui",
   "description": "The accessible foundation of your React apps and design systems",
   "private": true,
+  "version": "0.15.0",
   "author": "React Training <hello@reacttraining.com>",
   "license": "MIT",
   "repository": {
